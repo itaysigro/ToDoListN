@@ -8,8 +8,8 @@ function addList() {
 
 
     tabel.innerHTML += "<div class = 'tContainer' >"  +  
-    "<input class = 'subjectName' type='text' value='" + description + "'>" + "</input>" +
-    "<input class = 'subjectName' type='text' value='" + date + "'>"+"</input>" + 
+    "<input  class = 'd' type='text' value='" + description + "'>" + "</input>" +
+    "<input class = 'dd' type='text' value='" + date + "'>"+"</input>" + 
     "<input class = 'subjectName' type='text' value='" + status + "'>"+"</input>" +
     "<button class = 'subjectName' onclick='remove(this)'>Remove</button>"
     "</div>"

@@ -46,21 +46,25 @@ main{
 }
 
 .color{
-    background-color: silver;
+    background-color: skyblue;
     padding-bottom: 6px;
 }
 
 .s{
     grid-column: span 4;
     font-size: xx-large;
-    background-color: silver;
+    background-color: skyblue;
     height: 100%;
     margin-bottom: -26px;
 }
 
 .tContainer{
     grid-column: span 4;
-    margin-left: -350px;
+    margin-top: 20px;
+   
 }
 
+.d{
+    padding-right: 25%;
+}
 
